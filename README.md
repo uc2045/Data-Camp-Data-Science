@@ -1,2 +1,1 @@
-#In this notebook, I analyze the data that made Dr. Semmelweis, a Hungarian physician wonder why 10% of women were dying in childbirth. Did handwashing 
-by the attending doctors have to do anything with it, I wonder...?!
+#These are a list of all the Data Science and Machine Learning projects I worked on and made public. Enjoy!
